@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.panchince.jjfnino.resultadosamateur.MainActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_settings2"
+        android:title="@string/action_settings2"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_add"
+        android:title="@string/action_add"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_agregar_equipo"/>
+</menu>

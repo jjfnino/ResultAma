@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resultados Amateur</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_settings2">Nosotros</string>
+    <string name="action_add">Agregar</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
